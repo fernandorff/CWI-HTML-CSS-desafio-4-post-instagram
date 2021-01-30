@@ -72,6 +72,6 @@ body {
 ```
 
 
-💡 Uma dica, se você está chutando as propriedades, eu recomendo fortemente pedir ajuda aos monitores.
+💡 Uma dica, se você está chutando as propriedades, eu recomendo fortemente pedir ajuda aos colegas ou monitores.
 
 O fato de aprender usar o flexbox sem chutar as propriedades vai te ajudar a ganhar muita velocidade nos próximos exercícios.
