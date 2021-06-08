@@ -11,11 +11,15 @@ Vamos lá...
 - Para exportar a imagem do Figma, você tem que selecionar ela, e na sidebar da direita tem uma opção **export**. Aqui tem a [documentação do Figma](https://help.figma.com/hc/en-us/articles/360040028114-Guide-to-exports-in-Figma#:~:text=Click%20the%20in%20the%20Export,SVG%2C%20JPG%2C%20or%20PDF.) de como exportar;
 - Você deve deixar o resultado o mais fiel possível ao layout.
 
+🚧 Não apague o conteúdo da pasta `prints`.
+
+🚧 Você deve salvar o arquivo html como index.html para que a pipeline de correção funcione corretamente.
+
 Já fiz um html e um css base pra facilitar pra vocês, vocês só precisam salvar e continuar codando 😉:
 
 index.html
 
-```html 
+```html
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
